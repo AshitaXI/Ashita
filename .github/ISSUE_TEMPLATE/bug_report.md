@@ -2,7 +2,7 @@
 name: Bug Report
 about: Found a bug/issue with Ashita? Use this template to file bug reports.
 title: "[BUG] "
-labels: bug
+labels: 't: bug'
 assignees: ''
 
 ---

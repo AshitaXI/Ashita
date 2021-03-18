@@ -1,8 +1,8 @@
 ---
 name: Feature Request [Addon/Plugin]
 about: Have an idea for Ashita? Use this template to request a new addon/plugin.
-title: "[REQ]"
-labels: enhancement
+title: ''
+labels: 'c: addon, c: plugin, t: enhancement, t: feature'
 assignees: ''
 
 ---
