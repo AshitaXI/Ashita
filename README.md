@@ -1,3 +1,18 @@
+<div align="center">
+    <img width="128" src="https://github.com/AshitaXI/Ashita/raw/master/repo/ashita.png" alt="ashita">
+    </br>
+</div>
+
+<div align="center">
+    <a href="https://discord.gg/Ashita"><img src="https://img.shields.io/discord/264673946257850368.svg?style=for-the-badge" alt="Ashita Discord Server" /></a>
+    <a href="https://ashitaxi.com/"><img src="https://img.shields.io/badge/Homepage-link-blue?style=for-the-badge" alt="link" /></a>
+    <a href="https://docs.ashitaxi.com/"><img src="https://img.shields.io/badge/Documentation-link-blue?style=for-the-badge" alt="link" /></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/AshitaXI/Ashita/issues"><img src="https://img.shields.io/github/issues/AshitaXI/Ashita?style=for-the-badge" alt="" /></a>
+    <a href="https://github.com/AshitaXI/Ashita/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/AshitaXI/Ashita?style=for-the-badge" alt="" /></a>
+</div>
+
 # Ashita Issue Tracker
 
 Welcome to the public Ashita issue tracker! 
@@ -11,7 +26,6 @@ Looking for help/information? Be sure to check the wiki: [https://github.com/Ash
 When reporting a bug, GitHub will present you with a template that we ask users to follow and fill out. This helps us not have to ask common questions inside of every ticket by having you already provide them in your main report. Please be sure to fill out the information as best as possible and where applicable. (Failure to fill out the information, or not following the directions in the template may lead to your issue being closed without response.)
 
 To help us best help you, it is important that your bug report be as detailed as possible. Aside from filling out the template, including as much additional information as you can helps us diagnose your problem easier and faster. Additional information can be things such as screenshots, video recordings, crash dumps, etc. Anything that you think may help with fixing your issue.
-
 
 ## Feature Requests
 
